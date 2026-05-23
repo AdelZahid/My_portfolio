@@ -1,2 +1,2 @@
-const projectName = 'myPortfolio';
-console.log(projectName);
+const packageName = 'my-portfolio';
+console.log(packageName);
