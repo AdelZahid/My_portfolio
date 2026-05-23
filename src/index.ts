@@ -1,2 +1,2 @@
-const projectName = 'My_portfolio';
+const projectName = 'my_portfolio';
 console.log(projectName);
